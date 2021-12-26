@@ -19,6 +19,9 @@ describe('Pruebas en <AddCategory />', () => {
     const value = 'hola mundo';
     input.simulate('change', {target: {value}});
 
+    //Aqui habia que cambiar unas cosas en el AddCategory
+    //Pero me parecia medio al pedo.
+
   })
   
   
