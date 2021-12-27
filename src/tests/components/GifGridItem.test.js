@@ -1,5 +1,5 @@
 import { shallow } from "enzyme";
-import { GifGridItem } from "../componentes/GifGridItem";
+import { GifGridItem } from "../../componentes/GifGridItem";
 
 describe('Testing GifGridItem', () => {
 
